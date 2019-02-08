@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Alexandria Tour Guide</string>
+
+    <string name="city_name">Alexandria</string>
+
+    <string name="about_city">
+        Alexandria is a Mediterranean port city in Egypt.
+        During the Hellenistic period,
+        it was home to a lighthouse ranking among the Seven Wonders of the Ancient World
+        as well as a storied library. Today the library is reincarnated in the disc-shaped,
+        ultramodern Bibliotheca Alexandrina. The city also has Greco-Roman landmarks,
+        old-world cafes and sandy beaches. Its 15th-century seafront Qaitbay Citadel is now a museum.
+        \nArea: 2,679 km²
+        \nWeather: 12°C, Wind SW at 8 km/h, 82% Humidity
+        \nPostal code: 21500
+        \nLocal time: Friday 12:18 AM
+        \nPopulation: 5.2 million (Oct 2018)
+    </string>
+</resources>
