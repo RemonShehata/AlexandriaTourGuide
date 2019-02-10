@@ -1,5 +1,9 @@
 package com.example.android.alexandriatourguide.fragments;
 
+/*
+*resources from booking.com
+*
+ */
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
@@ -32,12 +36,13 @@ public class HotelsFragment extends Fragment {
 
         //create a list of items
         ArrayList<Item> items = new ArrayList<>();
-        items.add(new Item(R.string.city_name, R.string.about_city, R.drawable.alex));
-        items.add(new Item(R.string.area, R.string.area_info));
-        items.add(new Item(R.string.weather, R.string.weather_info));
-        items.add(new Item(R.string.postal_code, R.string.postal_code_info));
-        items.add(new Item(R.string.time_zone, R.string.time_zone_info));
-        items.add(new Item(R.string.population, R.string.population_info));
+        items.add(new Item(R.string.four_seasons, R.string.four_seasons_detials,
+                R.drawable.four_seasons_hotel_alexandria));
+        items.add(new Item(R.string.tolip, R.string.tolip_details,R.drawable.tolip_hotel));
+        items.add(new Item(R.string.hilton, R.string.hilton_details,R.drawable.hilton_alexandria_corniche));
+        items.add(new Item(R.string.helnan, R.string.helnan_detials,R.drawable.helnan_palestine_hotel));
+        items.add(new Item(R.string.sheraton, R.string.sheraton_details,R.drawable.sheraton_montazah_hotel));
+        items.add(new Item(R.string.paradise, R.string.paradise_detials,R.drawable.paradise_inn_beach_resort));
 
         // Create an {@link ItemAdapter}, whose data source is a list of {@link Item}s.
         // The adapter knows how to create list items for each item in the list.

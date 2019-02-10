@@ -33,8 +33,7 @@ public class AboutFragment extends Fragment {
 
         //create a list of items
         ArrayList<Item> items = new ArrayList<>();
-        items.add(new Item(R.string.city_name, R.string.about_city,
-                R.drawable.alex));
+        items.add(new Item(R.string.city_name, R.string.about_city));
         items.add(new Item(R.string.area, R.string.area_info));
         items.add(new Item(R.string.weather, R.string.weather_info));
         items.add(new Item(R.string.postal_code, R.string.postal_code_info));

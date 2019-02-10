@@ -21,4 +21,185 @@
     <string name="time_zone_info">GMT +2</string>
     <string name="population">Population</string>
     <string name="population_info">5.2 million (Oct 2018)</string>
+
+    <string name="four_seasons">Four Seasons Hotel</string>
+    <string name="four_seasons_detials">
+        Set in an architectural landmark, Hotel San Stefano features a fashionable resort setting
+        with a private sandy beach and overlooking the Mediterranean Sea.
+    </string>
+
+    <string name="tolip">Tolip Hotel </string>
+    <string name="tolip_details">
+        This 5-star hotel in Alexandria offers an outdoor pool, a spa and a gym.
+        It features modern accommodation with views of the sea or city.
+        Free Wi-Fi is available in public areas.
+    </string>
+
+    <string name="hilton">Hilton Alexandria Corniche</string>
+    <string name="hilton_details">
+        Boasting an ideal location in the heart of Alexandria, 
+        Hilton Alexandria Corniche features its own private beach and wellness facility.
+    </string>
+
+    <string name="helnan">Helnan Palestine Hotel</string>
+    <string name="helnan_detials">
+        Set on 350 acres of lush gardens overlooking a Mediterranean cove,
+        Helnan Palestine Hotel features an outdoor pool and private seafront sun terrace.
+    </string>
+
+    <string name="sheraton">Sheraton Montazah</string>
+    <string name="sheraton_details">
+        Sheraton Montazah features a well-equipped gym and free-form pool offering panoramic sea views.
+        Located 10 minutes’ walk from El Mandara Railway Station, its rooms have a private balcony.
+    </string>
+
+    <string name="paradise">Paradise Inn Beach Resort</string>
+    <string name="paradise_detials">
+        Overlooking Mamoura beach, Paradise Inn Beach Resort offers rooms with a spa bath and a balcony.
+        The hotel has a large pool and spacious gardens.
+    </string>
+
+
+    <string name="lighthouse">Lighthouse of Alexandria</string>
+    <string name="lighthouse_details">The Lighthouse of Alexandria,
+        sometimes called the Pharos of Alexandria, was a lighthouse built by the Ptolemaic Kingdom, 
+        during the reign of Ptolemy II Philadelphus, 
+        which has been estimated to be 100 metres in overall height.
+        \nDestruction date: 1480
+        \nConstruction started: 280 BC
+        \nLocation: Pharos, Alexandria, Egypt
+        \nDestroyed by: Earthquake
+        \nArchitect: Sostratus of Cnidus
+        
+    </string>
+
+    <string name="bibliotheca">Bibliotheca Alexandrina</string>
+    <string name="bibliotheca_details">
+        The Great Library of Alexandria in Alexandria, Egypt,
+        was one of the largest and most significant libraries of the ancient world.
+        The Library was part of a larger research institution called the Mouseion,
+        which was dedicated to the Muses, the nine goddesses of the arts
+
+        Address: Al Azaritah WA Ash Shatebi, Qesm Bab Sharqi, Alexandria Governorate 21526
+        Hours Open : 10AM–7PM
+        Phone: 03 4839999
+    </string>
+
+    <string name="citadel">Citadel of Qaitbay</string>
+    <string name="citadel_details">
+        The Citadel of Qaitbay is a 15th-century defensive fortress located on the Mediterranean sea
+        coast,in Alexandria, Egypt. It was established in 1477 AD by
+        Sultan Al-Ashraf Sayf al-Din Qa\'it Bay.
+        The Citadel is situated on the eastern side of the northern tip of Pharos Island
+        at the mouth of the Eastern Harbour.
+
+        Address: As Sayalah Sharq, Qesm Al Gomrok, Alexandria Governorate
+        Hours Open: 8AM–5PM
+    </string>
+
+    <string name="montaza">Montaza Palace</string>
+    <string name="montaza_details">
+        Montaza Palace is a palace, museum and extensive gardens in the Montaza district of
+        Alexandria, Egypt. It was built on a low plateau east of central Alexandria overlooking a
+        beach on the Mediterranean Sea.
+
+        Address: Al Mandarah Bahri, Qism El-Montaza, Alexandria Governorate
+        Hours Open: 8AM–12AM
+    </string>
+
+    <string name="pillar">Pompey\'s Pillar</string>
+    <string name="pillar_detials">
+        Pompey\'s Pillar is a Roman triumphal column in Alexandria, Egypt,
+        the largest of its type constructed outside the imperial capitals of Rome and Constantinople,
+        located at the Serapeum of Alexandria
+
+        Address: Pompey\'s Pillar, Al Karah WA at Toubageyah WA Kafr Al Ghates, Qesm Karmouz,
+        Alexandria Governorate
+        Hours Open: 9AM-3PM
+    </string>
+
+    <string name="royal_jewlry">Royal Jewelry Museum</string>
+    <string name="roayl_jewlry_details">
+        The Royal Jewelry Museum is an art and history museum in the Zizenia neighborhood of
+        Alexandria, Egypt. It is located in the former palace of Princess Fatma Al-Zahra\'.
+        The building\'s halls contain an inestimable collection of jewels and jewelry of the
+        Muhammad Ali Dynasty
+
+        Address: Pasha, 27 Ahmed Yehia, San Stifano, Qism El-Raml, Alexandria Governorate
+        Hours Open: 9AM–4PM
+    </string>
+
+
+    <string name="foul">ALEXANDRIAN BREAKFAST FOUL</string>
+    <string name="foul_detials">
+        Eating Egyptian breakfast is one of the most memorable things you can do in Egypt,
+        and this Egyptian Breakfast is no exception, it will blow your mind!
+        The Foul Fava bean dip comes with tahini and a light tomato cilantro salsa,
+        and the felafel is shaped into round balls! When you sit down, t
+        he waiter brings you a table full of delicious side dishes to dip your baladi bread into as well!
+    </string>
+    <string name="eat_it_here_foul">
+        MOHAMED AHMED RESTAURANT
+        \nMust Order: Alexandrian Foul, Felafel, Fried cheese, signature scrambled eggs
+        \nAddress: Qesm Al Attarin, Alexandria Governorate, Egypt
+        \nPrice: 50 EGP + for 2
+    </string>
+
+    <string name="fonde">DELICIOUS ALEXANDRIAN FONDUE</string>
+    <string name="fonde_details">
+        Coming to Egypt I never thought there would be a famous fondue dish,
+        but here in Alexandria it is a must try! Their secret 7 cheese mixture is amazingly
+        fragrant and you can order it with a huge variety of different meats or seafoods.
+        I ordered the beef with caramelized onions and pepper along with the shrimp and crab
+        sticks with cheese. Amazingly creamy and cheesy!
+
+        You can take your Vino bread sticks; a very soft almost baguette like bread,
+        break it and make it into a long spoon, and scoop up your delicious Egyptian fondue!
+    </string>
+    <string name="eat_it_here_fonde">
+        ALBAN SEWISRA
+        /nMust Order: The beef with onions is called "lahma bel basal" and the shrimp and crab sticks
+        is "fwakeh el bahr". You can also say seafood as it will be understood in English!
+        \nComments: There may be a long lineup!
+        \nAddress: Al Ibrahimeyah Bahri WA Sidi Gaber, Qesm Bab Sharqi, Alexandria Governorate
+        \nPrice: 60+ EGP for two
+        \nHours: Always busy, best to come earlier, but you can also come late at night too!
+    </string>
+
+    <string name="sea_food">DELICIOUS EGYPTIAN SEAFOOD!</string>
+    <string name="sea_food_details">This was honestly some of the best seafood I ever tried.
+        Located in a busy seafood market of Alexandria,
+        the best part is how you can purchase all of your seafood fresh right in the market
+        and bring it literally 5 meters to the side to one of the busy seafood grills.
+        You only pay their cooking fee, which was modest, 80 EPG, around $4 USD.
+        My favourite dish was the squid with tomato, onion, chili,
+        and cilantro. It was amazingly fragrant and slightly sweet from the onion,
+        with a slight spicy kick from the chili!
+        All of the Egyptian seafood is cooked here in many different ways,
+        allowing you to try many different flavours, so make sure to buy a lot of seafood from the market!
+        Get some crab, fish, and squid!
+    </string>
+    <string name="eat_it_here_sea_food">
+        SEAFOOD JOINT AT SOUQ EL MIDAN, BAHARY
+        \nMust Order: It is prepared many different ways. Try to eat one of each different style; baked, grilled, sauteed.
+        \nComments: Best dish was the squid!
+        \nAddress: Ash Shamarli WA Zaweyat Al Aarag, Qesm Al Gomrok, Alexandria Governorate
+        \nPrice: Pay their cooking fee, usually around 2$ to 5$.
+        \nHours: Come early because the fresh seafood in the market is in the morning. Ideally come before 12 oclock.
+    </string>
+
+    <string name="liver">EGYPTIAN LIVER SANDWICHES</string>
+    <string name="liver_details">
+        Although this is just one dish, there are actually many dishes that come with it!
+        While the liver sandwiches weren’t my favourite, the selection of side dishes and the pure
+        variety of flavours alone is worth coming here for! As with most Egyptian restaurants,
+        there\’s delicious humous, tahini, baba ganoush, and vegetable dishes.
+    </string>
+    <string name="eat_it_here_liver">
+        EL-SAYED MOHAMMED KARIM
+        \nMust Order: Liver sandwiches, brain sandwich, stuffed intestine with fragrant rice
+        \nAddress: As Sayalah Sharq, Qesm Al Gomrok, 28 Alexandria Governorate
+        \nHours: Come in the evening
+    </string>
+
 </resources>

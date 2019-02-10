@@ -32,12 +32,13 @@ public class SightseeingFragment extends Fragment {
 
         //create a list of items
         ArrayList<Item> items = new ArrayList<>();
-        items.add(new Item(R.string.city_name, R.string.about_city, R.drawable.alex));
-        items.add(new Item(R.string.area, R.string.area_info));
-        items.add(new Item(R.string.weather, R.string.weather_info));
-        items.add(new Item(R.string.postal_code, R.string.postal_code_info));
-        items.add(new Item(R.string.time_zone, R.string.time_zone_info));
-        items.add(new Item(R.string.population, R.string.population_info));
+        items.add(new Item(R.string.lighthouse, R.string.lighthouse_details, R.drawable.light_house));
+        items.add(new Item(R.string.bibliotheca, R.string.bibliotheca_details,R.drawable.bibliotheca));
+        items.add(new Item(R.string.citadel, R.string.citadel_details,R.drawable.citadel_of_qaitbay));
+        items.add(new Item(R.string.montaza, R.string.montaza_details,R.drawable.montaza_palace));
+        items.add(new Item(R.string.pillar, R.string.pillar_detials,R.drawable.pompey_pillar));
+        items.add(new Item(R.string.royal_jewlry, R.string.roayl_jewlry_details,
+                R.drawable.roayal_jewelry_museum));
 
         // Create an {@link ItemAdapter}, whose data source is a list of {@link Item}s.
         // The adapter knows how to create list items for each item in the list.

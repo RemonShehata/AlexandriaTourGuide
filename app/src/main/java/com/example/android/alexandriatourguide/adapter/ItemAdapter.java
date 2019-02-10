@@ -58,7 +58,7 @@ public class ItemAdapter extends ArrayAdapter<Item> {
 
         //find the ImageView in the listItemView with ID image
         ImageView imageView = listItemView.findViewById(R.id.image);
-        //check if there is an image provided for the word or not
+        //check if there is an image provided for the item or not
         if (currentItem.hasImage()) {
             //if there is an image provided then display it based on the resource ID
             imageView.setImageResource(currentItem.getImageResourceID());
@@ -67,6 +67,23 @@ public class ItemAdapter extends ArrayAdapter<Item> {
         } else {
             //if no image was provided, hide the image view
             imageView.setVisibility(View.GONE);
+        }
+
+        //find the ImageView in the listItemView with ID eat_it_here
+        ImageView eatItHereImageView = listItemView.findViewById(R.id.eat_it_here_image_view);
+        TextView eatItHereTextView = listItemView.findViewById(R.id.eat_it_here_text_view);
+        //check is there is an image provided for the item or not(only for food items)
+        if (currentItem.hasEatItHere()) {
+            //if there is an image provided then display it based on the resource ID
+            eatItHereImageView.setImageResource(currentItem.getmImageResourceIDEatItHere());
+            eatItHereTextView.setText(currentItem.getmEatItHereInfo());
+            //make sure that the image view is visible
+            eatItHereImageView.setVisibility(View.VISIBLE);
+            eatItHereTextView.setVisibility(View.VISIBLE);
+        } else {
+            //if no image was provided, hide the image view
+            eatItHereImageView.setVisibility(View.GONE);
+            eatItHereTextView.setVisibility(View.GONE);
         }
 
         return listItemView;
