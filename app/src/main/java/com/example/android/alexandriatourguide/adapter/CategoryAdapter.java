@@ -6,6 +6,7 @@ import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
 
+import com.example.android.alexandriatourguide.R;
 import com.example.android.alexandriatourguide.fragments.AboutFragment;
 import com.example.android.alexandriatourguide.fragments.FoodFragment;
 import com.example.android.alexandriatourguide.fragments.HotelsFragment;
@@ -49,13 +50,13 @@ public class CategoryAdapter extends FragmentPagerAdapter {
     public CharSequence getPageTitle(int position) {
         switch (position) {
             case 0:
-                return "About";
+                return mContext.getString(R.string.about_fragment);
             case 1:
-                return "Hotels";
+                return mContext.getString(R.string.hotels_fragment);
             case 2:
-                return "SightSeeings";
+                return mContext.getString(R.string.sights_fragment);
             default:
-                return "Food";
+                return mContext.getString(R.string.food_fragment);
         }
     }
 

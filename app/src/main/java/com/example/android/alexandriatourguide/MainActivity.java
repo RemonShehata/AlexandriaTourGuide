@@ -7,6 +7,7 @@ import android.support.v7.app.AppCompatActivity;
 
 import com.example.android.alexandriatourguide.adapter.CategoryAdapter;
 
+//TODO: work on the project as per the review suggestions
 public class MainActivity extends AppCompatActivity {
 
     @Override

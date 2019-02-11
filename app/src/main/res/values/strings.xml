@@ -1,6 +1,11 @@
 <resources>
     <string name="app_name">Alexandria Tour Guide</string>
 
+    <string name="about_fragment">About</string>
+    <string name="hotels_fragment">Hotels</string>
+    <string name="sights_fragment">SightSeeings</string>
+    <string name="food_fragment">Food</string>
+
     <string name="city_name">Alexandria</string>
 
     <string name="about_city">
